@@ -1,7 +1,3 @@
-// SDIZO IS1 210B LAB04
-// Przemysław Samsel
-// samselprzemyslaw@gmail.com
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
