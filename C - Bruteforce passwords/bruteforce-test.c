@@ -1,7 +1,3 @@
-//#SO2 IS1 210B LAB06
-//#Przemyslaw Samsel 
-//#sp39427@wi.zut.edu.pl
-
 // ldd --version shows 2.23 -> and I need glibc 2.7
 //Is that a problem? 
 //http://man7.org/linux/man-pages/man3/crypt.3.html
