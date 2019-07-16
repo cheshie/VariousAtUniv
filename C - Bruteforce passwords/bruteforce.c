@@ -1,7 +1,3 @@
-//#SO2 IS1 210B LAB06
-//#Przemyslaw Samsel 
-//#sp39427@wi.zut.edu.pl
-
 #define _GNU_SOURCE
 #define _POSIX_SOURCE
 #define _POSIC_C_SOURCE 199309L
